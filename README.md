@@ -2,7 +2,8 @@
 
 Using VSCode with a Raspberry Pi over SSH.
 
-##Configuration
+## Configuration
+
 https://dev.to/tardisgallifrey/raspberry-pi-and-net-core-my-way-kc2
 https://edi.wang/post/2019/9/29/setup-net-core-30-runtime-and-sdk-on-raspberry-pi-4
 
